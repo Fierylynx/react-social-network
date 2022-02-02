@@ -1,0 +1,19 @@
+.header {
+  /* position: fixed; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  width: 100%;
+  background-color: #3f4257;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.userWrapper {
+  display: flex;
+  align-items: center;
+}
