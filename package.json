@@ -38,6 +38,7 @@
   "devDependencies": {
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-react": "^7.28.0",
-    "eslint-plugin-react-hooks": "^4.3.0"
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "react-router-dom": "^6.2.1"
   }
 }
